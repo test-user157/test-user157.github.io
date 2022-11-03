@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blogs and Stuff"
+title: "Info"
 ---
 
 {% if site.show_excerpts %}
