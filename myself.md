@@ -1,3 +1,8 @@
+---
+layout: page
+title: About Me
+---
+
 You want my resume?
 
 Well, here are your two options:
